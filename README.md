@@ -1,4 +1,4 @@
-# Program Name
+# Parking App
 
 The program is designed to integrate the following functionality into the client-side as iOS and Android applications:
 - User information retrieval

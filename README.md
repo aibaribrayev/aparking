@@ -36,7 +36,7 @@ To run the program locally, follow these steps:
 
 ### Calling the Program
 
-To use the program's functions, you need to make requests to the server via the REST API with the root URL "https://mrmotor.herokuapp.com".
+To use the program's functions, you need to make requests to the server via the REST API with the root URL "https://209.38.249.233".
 
 ### Requesting Verification Code
 

@@ -1,6 +1,6 @@
 # Microservices
 
-Links to each microservice are included in this repository:
+Links to each microservice included in this repository:
 - ### [AuthService](https://github.com/aibaribrayev/AuthService.git): Authentication and User data.
 - ### [KafkaConsumerService](https://github.com/aibaribrayev/KafkaConsumerService.git): Kafka Conumer Service.
 - ### [KafkaProducerService](https://github.com/aibaribrayev/KafkaProducerRepository.git): Kafka Producer Service.

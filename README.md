@@ -1,3 +1,10 @@
+# Microservices
+
+Here are the microservices included in this repository:
+- [AuthService](https://github.com/aibaribrayev/AuthService.git): Authentication and User data.
+- [KafkaConsumerService](https://github.com/aibaribrayev/KafkaConsumerService.git): Kafka Conumer Service.
+- [KafkaProducerService](https://github.com/aibaribrayev/KafkaProducerRepository.git): Kafka Producer Service.
+
 # Parking App
 
 The program is designed to integrate the following functionality into the client-side as iOS and Android applications:
